@@ -25,3 +25,4 @@ app.listen(port, async () => {
     console.log(`Error connecting to database: ${err.message}`);
   }
 });
+
